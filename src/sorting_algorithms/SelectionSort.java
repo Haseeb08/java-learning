@@ -4,21 +4,16 @@ import static sorting_algorithms.Utils.printArray;
 
 public class SelectionSort {
     /*
-        "Take one card at a time and insert it where it belongs."
+     "Find the smallest, put it first."
 
-        - Loop through array (1 -> n-1) (Assume first element is already sorted)
+     - Loop through array (0 -> n-1) (Assuming minIndex is current index)
 
-        - Store current element as key (key = arr[i])
+     - Pick the smallest in the remaining part (i+1 -> n) (Update minIndex)
 
-        - Compare with elements in the sorted part (j = i-1 to 0)
+     - Swap it to the front (If minIndex != i)
 
-        - SHIFTING elements one position to the right if they're greater than key
-
-        - Insert the key at the correct position (arr[j+1] = key)
-
-        - Repeat for all elements
-
-    */
+     - Repeat for the next index
+ */
     static void selectionSort(int[] arr) {
         int minIndex;
         int n = arr.length;
