@@ -1,22 +1,22 @@
 # java-learning
 
-## sorting_algorithms
+## Compile and run
 
     Compile - javac SortingAlgoName.java
     Run - java SortingAlgoName
 
-### Algorithms
+### Sorting Algorithms
 
 | #  | Algorithm       | File Name                                                     | Description                              |
 |----|-----------------|---------------------------------------------------------------|------------------------------------------|
-| 1  | Bubble Sort     | [BubbleSort.java](Algorithms/BubbleSort.java)                 | Repeatedly swaps adjacent elements       |
-| 2  | Selection Sort  | [SelectionSort.java](Algorithms/SelectionSort.java)           | Selects the minimum element in each pass |
-| 3  | Insertion Sort  | [InsertionSort.java](Algorithms/InsertionSort.java)           | Builds sorted array one item at a time   |
-| 4  | Merge Sort      | [MergeSort.java](Algorithms/MergeSort.java)                   | Divide and conquer algorithm             |
-| 5  | Quick Sort      | [QuickSort.java](Algorithms/QuickSort.java)                   | Efficient divide and conquer sort        |
-| 6  | Heap Sort       | [HeapSort.java](Algorithms/HeapSort.java)                     | Uses a binary heap to sort elements      |
-| 7  | Counting Sort   | [CountingSort.java](Algorithms/CountingSort.java)             | Non-comparative integer sorting algorithm|
-| 8  | Radix Sort      | [RadixSort.java](Algorithms/RadixSort.java)                   | Sorts using digit positions (radix base) |
+| 1  | Bubble Sort     | [BubbleSort.java](src/sorting_algorithms/BubbleSort.java)                 | Repeatedly swaps adjacent elements       |
+| 2  | Selection Sort  | [SelectionSort.java](src/sorting_algorithms/SelectionSort.java)           | Selects the minimum element in each pass |
+| 3  | Insertion Sort  | [InsertionSort.java](src/sorting_algorithms/InsertionSort.java)           | Builds sorted array one item at a time   |
+| 4  | Merge Sort      | [MergeSort.java](src/sorting_algorithms/MergeSort.java)                   | Divide and conquer algorithm             |
+| 5  | Quick Sort      | [QuickSort.java](src/sorting_algorithms/QuickSort.java)                   | Efficient divide and conquer sort        |
+| 6  | Heap Sort       | [HeapSort.java](src/sorting_algorithms/HeapSort.java)                     | Uses a binary heap to sort elements      |
+| 7  | Counting Sort   | [CountingSort.java](src/sorting_algorithms/CountingSort.java)             | Non-comparative integer sorting algorithm|
+| 8  | Radix Sort      | [RadixSort.java](src/sorting_algorithms/RadixSort.java)                   | Sorts using digit positions (radix base) |
 
 ### Time and Space Complexities
 
