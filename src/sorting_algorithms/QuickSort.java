@@ -25,11 +25,15 @@ public class QuickSort {
 
         - Base case: stop when low >= high
     */
-    static void quickSort(int[] arr, int low, int high) {
+    static void quickSort(int[] arr) {
+        qS(arr, 0, arr.length-1);
+    }
+
+    private static void qS(int[] arr, int low, int high) {
         if(low < high) {
             int partitionIndex = getPartition(arr, low, high);
-            quickSort(arr, low, partitionIndex-1);
-            quickSort(arr, partitionIndex+1, high);
+            qS(arr, low, partitionIndex-1);
+            qS(arr, partitionIndex+1, high);
         }
     }
 
@@ -58,7 +62,7 @@ public class QuickSort {
         int[] arr = {5, 1, 4, 2, 8};
 
         printArray(arr, "Array - ");
-        quickSort(arr, 0, arr.length-1);
+        quickSort(arr);
         printArray(arr, "Sorted Array - ");
     }
 }
