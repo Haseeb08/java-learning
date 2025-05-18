@@ -56,6 +56,62 @@ Example
 | 3  | Insertion Sort  | O(n) / O(n²) / **O(n²)**                  | O(1)             |
 | 4  | Merge Sort      | O(n log n) / O(n log n) / **O(n log n)**  | O(n)             |
 | 5  | Quick Sort      | O(n log n) / O(n log n) / **O(n²)**        | O(log n)         |
-
-
 </details>
+
+# Java Data Structures & Algorithms Roadmap
+
+This roadmap is designed to help you systematically build and master core Java data structures and algorithms, suitable for intermediate developers with around 4 years of experience.
+
+---
+
+## Phase 1: Strengthen Fundamentals & Core Data Structures
+*Goal: Deep conceptual understanding + practical usage with Java Collections*
+
+- **Arrays & ArrayLists**
+    - Understand internal structure, resizing, and random access complexity (O(1))
+    - Practice common problems (rotate, reverse, find duplicates, two-pointer technique)
+    - Learn Java Collections Framework: `ArrayList` usage
+
+- **Linked Lists (Singly & Doubly)**
+    - Learn node structure, traversal, insertion, deletion
+    - Practice reversing, cycle detection (Floyd’s algorithm), merge two sorted lists
+    - Use Java Collections: `LinkedList` class
+
+- **Stacks & Queues**
+    - Understand stack operations (push/pop) and LIFO concept
+    - Understand queue operations (enqueue/dequeue) and FIFO concept
+    - Practice balanced parentheses, implement queue using stacks, sliding window maximum
+    - Use Java Collections: `Stack`, `Deque`, `Queue` interfaces and classes
+
+---
+
+## Phase 2: Intermediate Data Structures & Algorithm Patterns
+*Goal: Master advanced data structures and key algorithmic paradigms*
+
+- **Trees & Binary Search Trees (BST)**
+    - Master tree traversals (inorder, preorder, postorder)
+    - Understand BST properties, insertion, deletion, and search
+    - Practice: Lowest Common Ancestor, validate BST, tree diameter
+    - Optionally explore AVL or Red-Black Trees basics
+
+- **Hash Tables / HashMaps**
+    - Learn collision resolution, load factor, and hashing functions
+    - Practice: two-sum problem, group anagrams, frequency counting
+
+- **Algorithm Paradigms**
+    - Divide & Conquer (Merge Sort, Quick Sort - already done)
+    - Greedy algorithms (activity selection, coin change)
+    - Dynamic Programming (knapsack, fibonacci, longest increasing subsequence)
+    - Backtracking (N-Queens, permutations, sudoku solver)
+
+---
+
+## Phase 3: Graphs and Advanced Algorithms
+*Goal: Solve complex problems and understand graph theory basics*
+
+- Understand graph representations (adjacency matrix and adjacency list)
+- Master graph traversals: BFS & DFS
+- Learn shortest path algorithms: Dijkstra, Bellman-Ford
+- Learn Minimum Spanning Tree algorithms: Kruskal, Prim
+- Practice topological sort and cycle detection
+- Solve diverse graph problems on coding platforms  
