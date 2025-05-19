@@ -2,10 +2,10 @@
 
 ### 1. Two Pointer Technique
 - [x] Reverse Array
-- [x] Check if Array is Palindrome
-- [x] Move Zeros to End
-- [x] Two Sum (Sorted + Unsorted)
-- [x] Remove Duplicates from Sorted Array
+- [ ] Check if Array is Palindrome
+- [ ] Move Zeros to End
+- [ ] Two Sum (Sorted + Unsorted)
+- [ ] Remove Duplicates from Sorted Array
 - [ ] Container with Most Water
 
 ---
