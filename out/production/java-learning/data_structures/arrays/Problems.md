@@ -2,17 +2,17 @@
 
 ### 1. Two Pointer Technique
 - [x] Reverse Array
-- [ ] Check if Array is Palindrome
-- [ ] Move Zeros to End
-- [ ] Two Sum (Sorted + Unsorted)
-- [ ] Remove Duplicates from Sorted Array
+- [x] Check if Array is Palindrome
+- [x] Move Zeros to End
+- [x] Two Sum (Sorted + Unsorted)
+- [x] Remove Duplicates from Sorted Array
 - [ ] Container with Most Water
 
 ---
 
 ### 2. Sliding Window
 _Efficient for subarray-based problems._
-- [ ] Maximum Sum Subarray of Size K
+- [x] Maximum Sum Subarray of Size K
 - [ ] Minimum Size Subarray Sum ≥ Target
 - [ ] Longest Substring Without Repeating Characters (Strings too)
 
