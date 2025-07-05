@@ -1,4 +1,4 @@
-package data_structures.arrays.sliding_window;
+package data_structures.arrays.sliding_window.variable_size;
 
 /**
  * Problem: Given an array of positive integers and a target sum,

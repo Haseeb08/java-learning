@@ -15,17 +15,18 @@
 
 #### 🔹 Fixed-Size Sliding Window
 - [x] Maximum Sum Subarray of Size K
-- [ ] First Negative Number in Every Window of Size K
-- [ ] Count Occurrences of Anagrams — [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [x] First Negative Number in Every Window of Size K
+- [x] Maximum sum/product in each window
+- [x] Count Occurrences of Anagrams — [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
 #### 🔸 Variable-Size Sliding Window
 - [x] Minimum Size Subarray Sum — [Leetcode 209](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- [ ] Longest Substring Without Repeating Characters — [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] Longest Substring with At Most K Distinct Characters — [Leetcode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
-- [ ] Longest Substring with Same Letters After Replacement — [Leetcode 424](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] Fruit Into Baskets — [Leetcode 904](https://leetcode.com/problems/fruit-into-baskets/)
+- [x] Longest Substring Without Repeating Characters — [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] Longest Substring with At Most K Distinct Characters — [Leetcode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+- [x] [Diff] Longest Substring with Same Letters After Replacement — [Leetcode 424](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] Fruit Into Baskets — [Leetcode 904](https://leetcode.com/problems/fruit-into-baskets/)
 
-#### 🔹 Advanced Sliding Window / Two-Pointer
+#### 🔹 Advanced Sliding Window / Two-Pointer /With Auxiliary DS 
 - [ ] Sliding Window Maximum — [Leetcode 239](https://leetcode.com/problems/sliding-window-maximum/)
 - [ ] Permutation in String — [Leetcode 567](https://leetcode.com/problems/permutation-in-string/)
 - [ ] Minimum Window Substring — [Leetcode 76](https://leetcode.com/problems/minimum-window-substring/)

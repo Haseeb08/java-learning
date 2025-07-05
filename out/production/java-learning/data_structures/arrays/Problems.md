@@ -6,15 +6,36 @@
 - [x] Move Zeros to End
 - [x] Two Sum (Sorted + Unsorted)
 - [x] Remove Duplicates from Sorted Array
-- [ ] Container with Most Water
+- [x] Container with Most Water(Leetcode)
 
 ---
 
 ### 2. Sliding Window
-_Efficient for subarray-based problems._
+#### 📌 Famous Sliding Window Problems
+
+#### 🔹 Fixed-Size Sliding Window
 - [x] Maximum Sum Subarray of Size K
-- [ ] Minimum Size Subarray Sum ≥ Target
-- [ ] Longest Substring Without Repeating Characters (Strings too)
+- [x] First Negative Number in Every Window of Size K
+- [x] Maximum sum in each window
+- [x] Count Occurrences of Anagrams — [Leetcode 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+#### 🔸 Variable-Size Sliding Window
+- [x] Minimum Size Subarray Sum — [Leetcode 209](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [x] Longest Substring Without Repeating Characters — [Leetcode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] Longest Substring with At Most K Distinct Characters — [Leetcode 340](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+- [x] Longest Substring with Same Letters After Replacement — [Leetcode 424](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] Fruit Into Baskets — [Leetcode 904](https://leetcode.com/problems/fruit-into-baskets/)
+
+#### 🔹 Advanced Sliding Window / Two-Pointer
+- [ ] Sliding Window Maximum — [Leetcode 239](https://leetcode.com/problems/sliding-window-maximum/)
+- [ ] Permutation in String — [Leetcode 567](https://leetcode.com/problems/permutation-in-string/)
+- [ ] Minimum Window Substring — [Leetcode 76](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] Subarrays with K Different Integers — [Leetcode 992](https://leetcode.com/problems/subarrays-with-k-different-integers/)
+
+#### 🔸 Bonus: Array + Two Pointer Pattern
+- [ ] Container With Most Water — [Leetcode 11](https://leetcode.com/problems/container-with-most-water/)
+- [ ] 3Sum Closest — [Leetcode 16](https://leetcode.com/problems/3sum-closest/)
+- [ ] Subarray Product Less Than K — [Leetcode 713](https://leetcode.com/problems/subarray-product-less-than-k/)
 
 ---
 
